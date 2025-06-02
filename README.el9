@@ -1,0 +1,6 @@
+### Manual Build Sequence
+
+```bash
+cd /root
+git clone --branch el9 https://github.com/jeramirez/rocks.git && cd rocks
+```
